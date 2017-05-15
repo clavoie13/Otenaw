@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 17dd98e46a8afd246b1426150cbd6661
+timeCreated: 1488144154
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: L_Hand_Propbone
+    100004: R_Hand_Propbone
+    100006: WarriorBelt1
+    100008: WarriorBelt2
+    100010: WarriorBelt3
+    100012: WarriorHead
+    100014: WarriorL_Index_1
+    100016: WarriorL_Index_2
+    100018: WarriorL_Index_3
+    100020: WarriorL_Middle_1
+    100022: WarriorL_Middle_2
+    100024: WarriorL_Middle_3
+    100026: WarriorL_Ring_1
+    100028: WarriorL_Ring_2
+    100030: WarriorL_Ring_3
+    100032: WarriorL_Thumb_1
+    100034: WarriorL_Thumb_2
+    100036: WarriorLCalf
+    100038: WarriorLCollarbone
+    100040: WarriorLeftHat1
+    100042: WarriorLeftHat2
+    100044: WarriorLeftHat3
+    100046: WarriorLFoot
+    100048: WarriorLForearm
+    100050: WarriorLL_Toe1
+    100052: WarriorLL_Toe2
+    100054: WarriorLPalm
+    100056: WarriorLPonytail1
+    100058: WarriorLPonytail2
+    100060: WarriorLPonytail3
+    100062: WarriorLThigh
+    100064: WarriorLUpperarm
+    100066: WarriorLUpVectorNode
+    100068: WarriorNeck
+    100070: WarriorPelvis
+    100072: WarriorR_Index_1
+    100074: WarriorR_Index_2
+    100076: WarriorR_Index_3
+    100078: WarriorR_Middle_1
+    100080: WarriorR_Middle_2
+    100082: WarriorR_Middle_3
+    100084: WarriorR_Ring_1
+    100086: WarriorR_Ring_2
+    100088: WarriorR_Ring_3
+    100090: WarriorR_Thumb_1
+    100092: WarriorR_Thumb_2
+    100094: WarriorRCalf
+    100096: WarriorRCollarbone
+    100098: WarriorRFoot
+    100100: WarriorRForearm
+    100102: WarriorRibcage
+    100104: WarriorRightHat1
+    100106: WarriorRightHat2
+    100108: WarriorRightHat3
+    100110: WarriorRPalm
+    100112: WarriorRPonytail1
+    100114: WarriorRPonytail2
+    100116: WarriorRPonytail3
+    100118: WarriorRR_Toe1
+    100120: WarriorRR_Toe2
+    100122: WarriorRThigh
+    100124: WarriorRUpperarm
+    100126: WarriorRUpVectorNode
+    100128: WarriorSpine1
+    100130: WarriorSpine2
+    100132: WarriorSpine3
+    100134: WarriorTopHat1
+    100136: WarriorTopHat2
+    100138: WarriorTopHat3
+    400000: //RootNode
+    400002: L_Hand_Propbone
+    400004: R_Hand_Propbone
+    400006: WarriorBelt1
+    400008: WarriorBelt2
+    400010: WarriorBelt3
+    400012: WarriorHead
+    400014: WarriorL_Index_1
+    400016: WarriorL_Index_2
+    400018: WarriorL_Index_3
+    400020: WarriorL_Middle_1
+    400022: WarriorL_Middle_2
+    400024: WarriorL_Middle_3
+    400026: WarriorL_Ring_1
+    400028: WarriorL_Ring_2
+    400030: WarriorL_Ring_3
+    400032: WarriorL_Thumb_1
+    400034: WarriorL_Thumb_2
+    400036: WarriorLCalf
+    400038: WarriorLCollarbone
+    400040: WarriorLeftHat1
+    400042: WarriorLeftHat2
+    400044: WarriorLeftHat3
+    400046: WarriorLFoot
+    400048: WarriorLForearm
+    400050: WarriorLL_Toe1
+    400052: WarriorLL_Toe2
+    400054: WarriorLPalm
+    400056: WarriorLPonytail1
+    400058: WarriorLPonytail2
+    400060: WarriorLPonytail3
+    400062: WarriorLThigh
+    400064: WarriorLUpperarm
+    400066: WarriorLUpVectorNode
+    400068: WarriorNeck
+    400070: WarriorPelvis
+    400072: WarriorR_Index_1
+    400074: WarriorR_Index_2
+    400076: WarriorR_Index_3
+    400078: WarriorR_Middle_1
+    400080: WarriorR_Middle_2
+    400082: WarriorR_Middle_3
+    400084: WarriorR_Ring_1
+    400086: WarriorR_Ring_2
+    400088: WarriorR_Ring_3
+    400090: WarriorR_Thumb_1
+    400092: WarriorR_Thumb_2
+    400094: WarriorRCalf
+    400096: WarriorRCollarbone
+    400098: WarriorRFoot
+    400100: WarriorRForearm
+    400102: WarriorRibcage
+    400104: WarriorRightHat1
+    400106: WarriorRightHat2
+    400108: WarriorRightHat3
+    400110: WarriorRPalm
+    400112: WarriorRPonytail1
+    400114: WarriorRPonytail2
+    400116: WarriorRPonytail3
+    400118: WarriorRR_Toe1
+    400120: WarriorRR_Toe2
+    400122: WarriorRThigh
+    400124: WarriorRUpperarm
+    400126: WarriorRUpVectorNode
+    400128: WarriorSpine1
+    400130: WarriorSpine2
+    400132: WarriorSpine3
+    400134: WarriorTopHat1
+    400136: WarriorTopHat2
+    400138: WarriorTopHat3
+    2300000: L_Hand_Propbone
+    2300002: R_Hand_Propbone
+    2300004: WarriorBelt1
+    2300006: WarriorBelt2
+    2300008: WarriorBelt3
+    2300010: WarriorL_Index_1
+    2300012: WarriorL_Index_2
+    2300014: WarriorL_Index_3
+    2300016: WarriorL_Middle_1
+    2300018: WarriorL_Middle_2
+    2300020: WarriorL_Middle_3
+    2300022: WarriorL_Ring_1
+    2300024: WarriorL_Ring_2
+    2300026: WarriorL_Ring_3
+    2300028: WarriorL_Thumb_1
+    2300030: WarriorL_Thumb_2
+    2300032: WarriorLeftHat1
+    2300034: WarriorLeftHat2
+    2300036: WarriorLeftHat3
+    2300038: WarriorLL_Toe1
+    2300040: WarriorLL_Toe2
+    2300042: WarriorLPonytail1
+    2300044: WarriorLPonytail2
+    2300046: WarriorLPonytail3
+    2300048: WarriorR_Index_1
+    2300050: WarriorR_Index_2
+    2300052: WarriorR_Index_3
+    2300054: WarriorR_Middle_1
+    2300056: WarriorR_Middle_2
+    2300058: WarriorR_Middle_3
+    2300060: WarriorR_Ring_1
+    2300062: WarriorR_Ring_2
+    2300064: WarriorR_Ring_3
+    2300066: WarriorR_Thumb_1
+    2300068: WarriorR_Thumb_2
+    2300070: WarriorRightHat1
+    2300072: WarriorRightHat2
+    2300074: WarriorRightHat3
+    2300076: WarriorRPonytail1
+    2300078: WarriorRPonytail2
+    2300080: WarriorRPonytail3
+    2300082: WarriorRR_Toe1
+    2300084: WarriorRR_Toe2
+    2300086: WarriorTopHat1
+    2300088: WarriorTopHat2
+    2300090: WarriorTopHat3
+    3300000: L_Hand_Propbone
+    3300002: R_Hand_Propbone
+    3300004: WarriorBelt1
+    3300006: WarriorBelt2
+    3300008: WarriorBelt3
+    3300010: WarriorL_Index_1
+    3300012: WarriorL_Index_2
+    3300014: WarriorL_Index_3
+    3300016: WarriorL_Middle_1
+    3300018: WarriorL_Middle_2
+    3300020: WarriorL_Middle_3
+    3300022: WarriorL_Ring_1
+    3300024: WarriorL_Ring_2
+    3300026: WarriorL_Ring_3
+    3300028: WarriorL_Thumb_1
+    3300030: WarriorL_Thumb_2
+    3300032: WarriorLeftHat1
+    3300034: WarriorLeftHat2
+    3300036: WarriorLeftHat3
+    3300038: WarriorLL_Toe1
+    3300040: WarriorLL_Toe2
+    3300042: WarriorLPonytail1
+    3300044: WarriorLPonytail2
+    3300046: WarriorLPonytail3
+    3300048: WarriorR_Index_1
+    3300050: WarriorR_Index_2
+    3300052: WarriorR_Index_3
+    3300054: WarriorR_Middle_1
+    3300056: WarriorR_Middle_2
+    3300058: WarriorR_Middle_3
+    3300060: WarriorR_Ring_1
+    3300062: WarriorR_Ring_2
+    3300064: WarriorR_Ring_3
+    3300066: WarriorR_Thumb_1
+    3300068: WarriorR_Thumb_2
+    3300070: WarriorRightHat1
+    3300072: WarriorRightHat2
+    3300074: WarriorRightHat3
+    3300076: WarriorRPonytail1
+    3300078: WarriorRPonytail2
+    3300080: WarriorRPonytail3
+    3300082: WarriorRR_Toe1
+    3300084: WarriorRR_Toe2
+    3300086: WarriorTopHat1
+    3300088: WarriorTopHat2
+    3300090: WarriorTopHat3
+    4300000: WarriorLL_Toe1
+    4300002: WarriorLL_Toe2
+    4300004: WarriorRR_Toe1
+    4300006: WarriorRR_Toe2
+    4300008: WarriorL_Thumb_1
+    4300010: WarriorL_Thumb_2
+    4300012: WarriorL_Index_1
+    4300014: WarriorL_Index_2
+    4300016: WarriorL_Index_3
+    4300018: WarriorL_Middle_1
+    4300020: WarriorL_Middle_2
+    4300022: WarriorL_Middle_3
+    4300024: WarriorL_Ring_1
+    4300026: WarriorL_Ring_2
+    4300028: WarriorL_Ring_3
+    4300030: L_Hand_Propbone
+    4300032: WarriorR_Thumb_1
+    4300034: WarriorR_Thumb_2
+    4300036: WarriorR_Index_1
+    4300038: WarriorR_Index_2
+    4300040: WarriorR_Index_3
+    4300042: WarriorR_Middle_1
+    4300044: WarriorR_Middle_2
+    4300046: WarriorR_Middle_3
+    4300048: WarriorR_Ring_1
+    4300050: WarriorR_Ring_2
+    4300052: WarriorR_Ring_3
+    4300054: R_Hand_Propbone
+    4300056: WarriorLeftHat1
+    4300058: WarriorLeftHat2
+    4300060: WarriorLeftHat3
+    4300062: WarriorTopHat1
+    4300064: WarriorTopHat2
+    4300066: WarriorTopHat3
+    4300068: WarriorRightHat1
+    4300070: WarriorRightHat2
+    4300072: WarriorRightHat3
+    4300074: WarriorLPonytail1
+    4300076: WarriorLPonytail2
+    4300078: WarriorLPonytail3
+    4300080: WarriorRPonytail1
+    4300082: WarriorRPonytail2
+    4300084: WarriorRPonytail3
+    4300086: WarriorBelt1
+    4300088: WarriorBelt2
+    4300090: WarriorBelt3
+    7400000: Old_Warrior_HIT_TAKEN
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Old_Warrior_HIT_TAKEN
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: enablePlayer
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: 51a7d148bfdb485448e70e18f1637ef5,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: WarriorPelvis
+        weight: 1
+      - path: WarriorPelvis/WarriorBelt1
+        weight: 1
+      - path: WarriorPelvis/WarriorBelt1/WarriorBelt2
+        weight: 1
+      - path: WarriorPelvis/WarriorBelt1/WarriorBelt2/WarriorBelt3
+        weight: 1
+      - path: WarriorPelvis/WarriorLThigh
+        weight: 1
+      - path: WarriorPelvis/WarriorLThigh/WarriorLCalf
+        weight: 1
+      - path: WarriorPelvis/WarriorLThigh/WarriorLCalf/WarriorLFoot
+        weight: 1
+      - path: WarriorPelvis/WarriorLThigh/WarriorLCalf/WarriorLFoot/WarriorLL_Toe1
+        weight: 1
+      - path: WarriorPelvis/WarriorLThigh/WarriorLCalf/WarriorLFoot/WarriorLL_Toe1/WarriorLL_Toe2
+        weight: 1
+      - path: WarriorPelvis/WarriorRThigh
+        weight: 1
+      - path: WarriorPelvis/WarriorRThigh/WarriorRCalf
+        weight: 1
+      - path: WarriorPelvis/WarriorRThigh/WarriorRCalf/WarriorRFoot
+        weight: 1
+      - path: WarriorPelvis/WarriorRThigh/WarriorRCalf/WarriorRFoot/WarriorRR_Toe1
+        weight: 1
+      - path: WarriorPelvis/WarriorRThigh/WarriorRCalf/WarriorRFoot/WarriorRR_Toe1/WarriorRR_Toe2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/L_Hand_Propbone
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Index_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Index_1/WarriorL_Index_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Index_1/WarriorL_Index_2/WarriorL_Index_3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Middle_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Middle_1/WarriorL_Middle_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Middle_1/WarriorL_Middle_2/WarriorL_Middle_3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Ring_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Ring_1/WarriorL_Ring_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Ring_1/WarriorL_Ring_2/WarriorL_Ring_3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Thumb_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLCollarbone/WarriorLUpperarm/WarriorLForearm/WarriorLPalm/WarriorL_Thumb_1/WarriorL_Thumb_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorLUpVectorNode
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorLeftHat1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorLeftHat1/WarriorLeftHat2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorLeftHat1/WarriorLeftHat2/WarriorLeftHat3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorLPonytail1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorLPonytail1/WarriorLPonytail2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorLPonytail1/WarriorLPonytail2/WarriorLPonytail3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorRightHat1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorRightHat1/WarriorRightHat2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorRightHat1/WarriorRightHat2/WarriorRightHat3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorRPonytail1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorRPonytail1/WarriorRPonytail2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorRPonytail1/WarriorRPonytail2/WarriorRPonytail3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorTopHat1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorTopHat1/WarriorTopHat2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorNeck/WarriorHead/WarriorTopHat1/WarriorTopHat2/WarriorTopHat3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/R_Hand_Propbone
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Index_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Index_1/WarriorR_Index_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Index_1/WarriorR_Index_2/WarriorR_Index_3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Middle_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Middle_1/WarriorR_Middle_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Middle_1/WarriorR_Middle_2/WarriorR_Middle_3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Ring_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Ring_1/WarriorR_Ring_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Ring_1/WarriorR_Ring_2/WarriorR_Ring_3
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Thumb_1
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRCollarbone/WarriorRUpperarm/WarriorRForearm/WarriorRPalm/WarriorR_Thumb_1/WarriorR_Thumb_2
+        weight: 1
+      - path: WarriorPelvis/WarriorSpine1/WarriorSpine2/WarriorSpine3/WarriorRibcage/WarriorRUpVectorNode
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

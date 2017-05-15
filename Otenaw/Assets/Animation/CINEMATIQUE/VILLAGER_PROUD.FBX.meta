@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: b778cce753281a04f83f443228caf7cb
+timeCreated: 1490237244
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: SettlerHead
+    100002: SettlerL_Toe1
+    100004: SettlerLCalf
+    100006: SettlerLCollarbone
+    100008: SettlerLFoot
+    100010: SettlerLForearm
+    100012: SettlerLPalm
+    100014: SettlerLPonytail1
+    100016: SettlerLPonytail2
+    100018: SettlerLPonytail3
+    100020: SettlerLThigh
+    100022: SettlerLUpperarm
+    100024: SettlerLUpVectorNode
+    100026: SettlerLUpVectorNode 1
+    100028: SettlerNeck
+    100030: SettlerPelvis
+    100032: SettlerR_Toe1
+    100034: SettlerRCalf
+    100036: SettlerRCollarbone
+    100038: SettlerRFoot
+    100040: SettlerRForearm
+    100042: SettlerRibcage
+    100044: SettlerRPalm
+    100046: SettlerRPonytail1
+    100048: SettlerRPonytail2
+    100050: SettlerRPonytail3
+    100052: SettlerRThigh
+    100054: SettlerRUpperarm
+    100056: SettlerRUpVectorNode
+    100058: SettlerRUpVectorNode 1
+    100060: SettlerSpine1
+    100062: SettlerSpine2
+    100064: SettlerSpine3
+    100066: Villager_Mesh
+    100068: //RootNode
+    400000: SettlerHead
+    400002: SettlerL_Toe1
+    400004: SettlerLCalf
+    400006: SettlerLCollarbone
+    400008: SettlerLFoot
+    400010: SettlerLForearm
+    400012: SettlerLPalm
+    400014: SettlerLPonytail1
+    400016: SettlerLPonytail2
+    400018: SettlerLPonytail3
+    400020: SettlerLThigh
+    400022: SettlerLUpperarm
+    400024: SettlerLUpVectorNode
+    400026: SettlerLUpVectorNode 1
+    400028: SettlerNeck
+    400030: SettlerPelvis
+    400032: SettlerR_Toe1
+    400034: SettlerRCalf
+    400036: SettlerRCollarbone
+    400038: SettlerRFoot
+    400040: SettlerRForearm
+    400042: SettlerRibcage
+    400044: SettlerRPalm
+    400046: SettlerRPonytail1
+    400048: SettlerRPonytail2
+    400050: SettlerRPonytail3
+    400052: SettlerRThigh
+    400054: SettlerRUpperarm
+    400056: SettlerRUpVectorNode
+    400058: SettlerRUpVectorNode 1
+    400060: SettlerSpine1
+    400062: SettlerSpine2
+    400064: SettlerSpine3
+    400066: Villager_Mesh
+    400068: //RootNode
+    2300000: SettlerL_Toe1
+    2300002: SettlerLPonytail1
+    2300004: SettlerLPonytail2
+    2300006: SettlerLPonytail3
+    2300008: SettlerR_Toe1
+    2300010: SettlerRPonytail1
+    2300012: SettlerRPonytail2
+    2300014: SettlerRPonytail3
+    3300000: SettlerL_Toe1
+    3300002: SettlerLPonytail1
+    3300004: SettlerLPonytail2
+    3300006: SettlerLPonytail3
+    3300008: SettlerR_Toe1
+    3300010: SettlerRPonytail1
+    3300012: SettlerRPonytail2
+    3300014: SettlerRPonytail3
+    4300000: SettlerL_Toe1
+    4300002: SettlerR_Toe1
+    4300004: SettlerLPonytail1
+    4300006: SettlerLPonytail2
+    4300008: SettlerLPonytail3
+    4300010: SettlerRPonytail1
+    4300012: SettlerRPonytail2
+    4300014: SettlerRPonytail3
+    4300016: Villager_Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Villager_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Grass
+  m_Shader: {fileID: 4800000, guid: 4440956075b27cc4fa078b61b8590175, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 07df3f2e5477a2d42ad57530c7938423, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 0bcf772234cb79642bd5336f18a1bea9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _PARAM
+      second:
+        m_Texture: {fileID: 2800000, guid: 178c40a313f15dc47b34bbc83b31fe5f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Height
+      second: 1
+    - first:
+        name: _Hue
+      second: 0.164
+    - first:
+        name: _Rotation
+      second: 0
+    - first:
+        name: _Roughnessintensity
+      second: 1
+    - first:
+        name: _Saturation
+      second: 1
+    - first:
+        name: _Tiling
+      second: 1
+    - first:
+        name: _Value
+      second: 0.202
+    - first:
+        name: _Width
+      second: 1
+    - first:
+        name: _desaturate
+      second: 0.268
+    - first:
+        name: _normalintensity
+      second: 0
+    m_Colors:
+    - first:
+        name: _normal_color
+      second: {r: 0, g: 0, b: 1, a: 0}

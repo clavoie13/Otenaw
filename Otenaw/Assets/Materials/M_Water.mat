@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Water
+  m_Shader: {fileID: 4800000, guid: 8e84060d6e94e6d4aa343765d513ed50, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 73609658903a8a44d903aa165ade8c41, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Roughness
+      second:
+        m_Texture: {fileID: 2800000, guid: 3192416866185f74f8ab37cbfe8d423d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _lignesblanches
+      second:
+        m_Texture: {fileID: 2800000, guid: 8f02fe908314dd84c8d494ecb779e18e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2247
+      second:
+        m_Texture: {fileID: 2800000, guid: 986f1332625337e4a966b6a3cd76df6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _noise
+      second:
+        m_Texture: {fileID: 2800000, guid: 8f4e70dd06f26cc429461f10f3ea0189, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _desaturate
+      second: 0.557
+    - first:
+        name: _height_anim
+      second: 0.58
+    - first:
+        name: _heightblanc
+      second: 1.14
+    - first:
+        name: _hue
+      second: 0.11
+    - first:
+        name: _intensitylerp
+      second: 0.452
+    - first:
+        name: _intensitywhitestripes
+      second: 0.2451631
+    - first:
+        name: _metallic
+      second: 0
+    - first:
+        name: _normalintensity
+      second: 0.5
+    - first:
+        name: _opacity
+      second: 0.64
+    - first:
+        name: _opacitywhitestripes
+      second: 0.671
+    - first:
+        name: _roughnessintensity
+      second: 0.99
+    - first:
+        name: _saturation
+      second: 0.544
+    - first:
+        name: _tile
+      second: 1
+    - first:
+        name: _tile_anim
+      second: 1
+    - first:
+        name: _value
+      second: 0.24
+    - first:
+        name: _width_anim
+      second: 0.85
+    - first:
+        name: _widthblanc
+      second: 0.1
+    m_Colors:
+    - first:
+        name: _normalcolor
+      second: {r: 0, g: 0, b: 1, a: 0}
+    - first:
+        name: _roughness
+      second: {r: 0.86764705, g: 0.86764705, b: 0.86764705, a: 1}

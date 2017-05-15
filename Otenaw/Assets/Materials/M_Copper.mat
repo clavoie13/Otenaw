@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Copper
+  m_Shader: {fileID: 4800000, guid: 0ef6716683848a1438c31a1730a350e5, type: 3}
+  m_ShaderKeywords: _METALLIC_ON
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 48140ec87a610e44aa1ff3fc22158975, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 5b1aa0391b7878345b8759a5f8b42507, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _roughness
+      second:
+        m_Texture: {fileID: 2800000, guid: 6c9d194d02f3c564a9df1cd98fc98637, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _metallic
+      second: 0.657
+    - first:
+        name: _normalintensity
+      second: 0.14
+    - first:
+        name: _roughnessintensity
+      second: 0.44
+    - first:
+        name: _tintbasecolor
+      second: 0.77
+    m_Colors:
+    - first:
+        name: _normalcolor
+      second: {r: 0, g: 0, b: 1, a: 0}

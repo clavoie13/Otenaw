@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 9c958940abdc2e14a965b4e0beb97c1e
+timeCreated: 1486869826
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RobotHead
+    100004: RobotLCalf
+    100006: RobotLCollarbone
+    100008: RobotLFoot
+    100010: RobotLForearm
+    100012: RobotLPalm
+    100014: RobotLThigh
+    100016: RobotLUpperarm
+    100018: RobotNeck
+    100020: RobotPelvis
+    100022: RobotRCalf
+    100024: RobotRCollarbone
+    100026: RobotRFoot
+    100028: RobotRForearm
+    100030: RobotRibcage
+    100032: RobotRPalm
+    100034: RobotRThigh
+    100036: RobotRUpperarm
+    100038: RobotSpine
+    100040: Turbine_bone
+    400000: //RootNode
+    400002: RobotHead
+    400004: RobotLCalf
+    400006: RobotLCollarbone
+    400008: RobotLFoot
+    400010: RobotLForearm
+    400012: RobotLPalm
+    400014: RobotLThigh
+    400016: RobotLUpperarm
+    400018: RobotNeck
+    400020: RobotPelvis
+    400022: RobotRCalf
+    400024: RobotRCollarbone
+    400026: RobotRFoot
+    400028: RobotRForearm
+    400030: RobotRibcage
+    400032: RobotRPalm
+    400034: RobotRThigh
+    400036: RobotRUpperarm
+    400038: RobotSpine
+    400040: Turbine_bone
+    2300000: Turbine_bone
+    3300000: Turbine_bone
+    4300000: Turbine_bone
+    7400000: Robot_Chase
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Robot_Chase
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 146
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: RobotPelvis
+        weight: 1
+      - path: RobotPelvis/RobotLThigh
+        weight: 1
+      - path: RobotPelvis/RobotLThigh/RobotLCalf
+        weight: 1
+      - path: RobotPelvis/RobotLThigh/RobotLCalf/RobotLFoot
+        weight: 1
+      - path: RobotPelvis/RobotRThigh
+        weight: 1
+      - path: RobotPelvis/RobotRThigh/RobotRCalf
+        weight: 1
+      - path: RobotPelvis/RobotRThigh/RobotRCalf/RobotRFoot
+        weight: 1
+      - path: RobotPelvis/RobotSpine
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotLCollarbone
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotLCollarbone/RobotLUpperarm
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotLCollarbone/RobotLUpperarm/RobotLForearm
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotLCollarbone/RobotLUpperarm/RobotLForearm/RobotLPalm
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotNeck
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotNeck/RobotHead
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotNeck/RobotHead/Turbine_bone
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotRCollarbone
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotRCollarbone/RobotRUpperarm
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotRCollarbone/RobotRUpperarm/RobotRForearm
+        weight: 1
+      - path: RobotPelvis/RobotSpine/RobotRibcage/RobotRCollarbone/RobotRUpperarm/RobotRForearm/RobotRPalm
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

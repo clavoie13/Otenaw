@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 2a907297bfa94ef4087296ed7a031de1
+timeCreated: 1489276215
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SettlerHead
+    100004: SettlerL_Toe1
+    100006: SettlerLCalf
+    100008: SettlerLCollarbone
+    100010: SettlerLFoot
+    100012: SettlerLForearm
+    100014: SettlerLPalm
+    100016: SettlerLPonytail1
+    100018: SettlerLPonytail2
+    100020: SettlerLPonytail3
+    100022: SettlerLThigh
+    100024: SettlerLUpperarm
+    100026: SettlerLUpVectorNode
+    100028: SettlerLUpVectorNode 1
+    100030: SettlerNeck
+    100032: SettlerPelvis
+    100034: SettlerR_Toe1
+    100036: SettlerRCalf
+    100038: SettlerRCollarbone
+    100040: SettlerRFoot
+    100042: SettlerRForearm
+    100044: SettlerRibcage
+    100046: SettlerRPalm
+    100048: SettlerRPonytail1
+    100050: SettlerRPonytail2
+    100052: SettlerRPonytail3
+    100054: SettlerRThigh
+    100056: SettlerRUpperarm
+    100058: SettlerRUpVectorNode
+    100060: SettlerRUpVectorNode 1
+    100062: SettlerSpine1
+    100064: SettlerSpine2
+    100066: SettlerSpine3
+    400000: //RootNode
+    400002: SettlerHead
+    400004: SettlerL_Toe1
+    400006: SettlerLCalf
+    400008: SettlerLCollarbone
+    400010: SettlerLFoot
+    400012: SettlerLForearm
+    400014: SettlerLPalm
+    400016: SettlerLPonytail1
+    400018: SettlerLPonytail2
+    400020: SettlerLPonytail3
+    400022: SettlerLThigh
+    400024: SettlerLUpperarm
+    400026: SettlerLUpVectorNode
+    400028: SettlerLUpVectorNode 1
+    400030: SettlerNeck
+    400032: SettlerPelvis
+    400034: SettlerR_Toe1
+    400036: SettlerRCalf
+    400038: SettlerRCollarbone
+    400040: SettlerRFoot
+    400042: SettlerRForearm
+    400044: SettlerRibcage
+    400046: SettlerRPalm
+    400048: SettlerRPonytail1
+    400050: SettlerRPonytail2
+    400052: SettlerRPonytail3
+    400054: SettlerRThigh
+    400056: SettlerRUpperarm
+    400058: SettlerRUpVectorNode
+    400060: SettlerRUpVectorNode 1
+    400062: SettlerSpine1
+    400064: SettlerSpine2
+    400066: SettlerSpine3
+    2300000: SettlerL_Toe1
+    2300002: SettlerLPonytail1
+    2300004: SettlerLPonytail2
+    2300006: SettlerLPonytail3
+    2300008: SettlerR_Toe1
+    2300010: SettlerRPonytail1
+    2300012: SettlerRPonytail2
+    2300014: SettlerRPonytail3
+    3300000: SettlerL_Toe1
+    3300002: SettlerLPonytail1
+    3300004: SettlerLPonytail2
+    3300006: SettlerLPonytail3
+    3300008: SettlerR_Toe1
+    3300010: SettlerRPonytail1
+    3300012: SettlerRPonytail2
+    3300014: SettlerRPonytail3
+    4300000: SettlerL_Toe1
+    4300002: SettlerR_Toe1
+    4300004: SettlerLPonytail1
+    4300006: SettlerLPonytail2
+    4300008: SettlerLPonytail3
+    4300010: SettlerRPonytail1
+    4300012: SettlerRPonytail2
+    4300014: SettlerRPonytail3
+    7400000: Villager_HIT_TAKEN_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Villager_HIT_TAKEN_02
+      takeName: Take 001
+      firstFrame: 155
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.97021276
+        functionName: enableVil
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: d779c3e8e0b45b14a9923adc2783c741,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SettlerPelvis
+        weight: 1
+      - path: SettlerPelvis/SettlerLThigh
+        weight: 1
+      - path: SettlerPelvis/SettlerLThigh/SettlerLCalf
+        weight: 1
+      - path: SettlerPelvis/SettlerLThigh/SettlerLCalf/SettlerLFoot
+        weight: 1
+      - path: SettlerPelvis/SettlerLThigh/SettlerLCalf/SettlerLFoot/SettlerL_Toe1
+        weight: 1
+      - path: SettlerPelvis/SettlerLUpVectorNode
+        weight: 1
+      - path: SettlerPelvis/SettlerRThigh
+        weight: 1
+      - path: SettlerPelvis/SettlerRThigh/SettlerRCalf
+        weight: 1
+      - path: SettlerPelvis/SettlerRThigh/SettlerRCalf/SettlerRFoot
+        weight: 1
+      - path: SettlerPelvis/SettlerRThigh/SettlerRCalf/SettlerRFoot/SettlerR_Toe1
+        weight: 1
+      - path: SettlerPelvis/SettlerRUpVectorNode
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerLCollarbone
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerLCollarbone/SettlerLUpperarm
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerLCollarbone/SettlerLUpperarm/SettlerLForearm
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerLCollarbone/SettlerLUpperarm/SettlerLForearm/SettlerLPalm
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerLUpVectorNode
+          1
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead/SettlerLPonytail1
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead/SettlerLPonytail1/SettlerLPonytail2
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead/SettlerLPonytail1/SettlerLPonytail2/SettlerLPonytail3
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead/SettlerRPonytail1
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead/SettlerRPonytail1/SettlerRPonytail2
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerNeck/SettlerHead/SettlerRPonytail1/SettlerRPonytail2/SettlerRPonytail3
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerRCollarbone
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerRCollarbone/SettlerRUpperarm
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerRCollarbone/SettlerRUpperarm/SettlerRForearm
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerRCollarbone/SettlerRUpperarm/SettlerRForearm/SettlerRPalm
+        weight: 1
+      - path: SettlerPelvis/SettlerSpine1/SettlerSpine2/SettlerSpine3/SettlerRibcage/SettlerRUpVectorNode
+          1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: M_Coussin02
+  m_Shader: {fileID: 4800000, guid: 4440956075b27cc4fa078b61b8590175, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: de0c10b49e928524ebed705827185ce1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 93d50769c08f6514385dd4b3f0ef4f02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _PARAM
+      second:
+        m_Texture: {fileID: 2800000, guid: c064e4bc7e671d947b3a6577b35a17fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Height
+      second: 0.05
+    - first:
+        name: _Hue
+      second: 0.599
+    - first:
+        name: _Rotation
+      second: 1.07
+    - first:
+        name: _Roughnessintensity
+      second: 1
+    - first:
+        name: _Saturation
+      second: 1
+    - first:
+        name: _Tiling
+      second: 1
+    - first:
+        name: _Value
+      second: -0.55
+    - first:
+        name: _Width
+      second: 0.02
+    - first:
+        name: _desaturate
+      second: 0.194
+    - first:
+        name: _normalintensity
+      second: 0
+    m_Colors:
+    - first:
+        name: _normal_color
+      second: {r: 0, g: 0, b: 1, a: 0}

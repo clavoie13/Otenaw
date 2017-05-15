@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MiniWarriorNoiseAnimator
+  m_Controller: {fileID: 9100000, guid: dc1d128b3830fc74baac677dba840dde, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cf7fc344a7632bc46b89721dd7a250ec, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b85914b9648910e43a44a07239de86e1, type: 2}
